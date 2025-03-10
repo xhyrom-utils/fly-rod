@@ -1,0 +1,8 @@
+{
+ "item.flyrod.flying_rod": "Flying Rod",
+ "item.flyrod.flying_rod.desc": "Right click to toggle allow and disallow flying",
+ "command.fly.success.allow.single": "%s can now fly",
+ "command.fly.success.noallow.single": "%s can not now fly",
+ "command.fly.success.setflyspeed.single": "Set %s's flight speed to %s",
+ "command.fly.success.setwalkspeed.single": "Set %s's walk speed to %s"
+}
